@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  box-sizing: border-box;
+  background: #cee6fd;
+}
+
+input[type="text"] {
+  width: 80%;
+  border: 2px outset rgb(1, 28, 44);
+}
+
+h1 {
+  text-decoration: underline;
+  text-decoration-color: rgb(14, 153, 153);
+}
